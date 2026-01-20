@@ -10,6 +10,8 @@ Explore and categorize content based on specific criteria and keywords.
 ## Data sets
 The data for this project is sourced from the Kaggle dataset
 ## Schema
+<img width="337" height="395" alt="image" src="https://github.com/user-attachments/assets/ebbe4905-3f64-438d-8a4b-8c6ddabaf537" />
+
 
 
 
