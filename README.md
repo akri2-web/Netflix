@@ -57,6 +57,7 @@ The data for this project is sourced from the Kaggle dataset
 ## the description field. Label content containing these keywords as 'Bad' and all other 
 ## content as 'Good'. Count how many items fall into each category.
 <img width="952" height="365" alt="image" src="https://github.com/user-attachments/assets/58b30c41-de40-40d9-84b8-846ad1c1062f" />
+
 ## Findings and Conclusion
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
